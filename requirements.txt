@@ -2,7 +2,6 @@ anyio
 argon2-cffi
 argon2-cffi-bindings
 arrow
-sttokensa==2.4.1
 async-lru
 attrs
 Babel
